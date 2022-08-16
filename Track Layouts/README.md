@@ -1,0 +1,1 @@
+The track layout coordinates were generated using the gazebo simulator developed and provided by the AMZ-Driverless. You can check their GitHub repo [here](https://github.com/AMZ-Driverless/fsd-resources.git).
