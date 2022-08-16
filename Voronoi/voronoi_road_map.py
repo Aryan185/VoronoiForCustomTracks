@@ -130,7 +130,7 @@ def main():
     gy = -120.2  # [m]
     robot_size = 1.1  # [m]
 
-    dataset = pd.read_csv('layout4.csv')
+    dataset = pd.read_csv('layout2.csv')
     
     ox = dataset.iloc[:, 0].values
     oy = dataset.iloc[:, 1].values
